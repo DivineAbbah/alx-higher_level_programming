@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" query and spool state based on state name"""
+""" query and spool all state based on state name"""
 
 import sqlalchemy
 from sqlalchemy import create_engine
