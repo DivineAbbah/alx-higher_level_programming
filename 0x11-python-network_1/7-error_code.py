@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A script that sends  request to a URL that displays the body of the response."""
+""" A script that sends request to a URL that displays the body of the response."""
 
 if __name__ == "__main__":
     import sys
